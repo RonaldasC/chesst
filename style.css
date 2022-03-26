@@ -1,0 +1,22 @@
+tr {
+    border: 2px solid black;   
+}
+.border, #border1 {
+    border:  solid black;
+    background-color: dimgrey;
+    text-align: center;
+}
+td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+}   
+table {
+    border: solid black;
+}
+.baground_black {
+    background-color: black;
+}
+.border0 {
+    background-color: cornsilk;
+}
